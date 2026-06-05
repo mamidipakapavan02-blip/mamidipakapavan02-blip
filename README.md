@@ -79,3 +79,17 @@
 - Git
 - GitHub
 - VS Code
+
+- ---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mamidipakapavan02-blip&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamidipakapavan02-blip&layout=compact&theme=tokyonight" />
+</p>
+
+---

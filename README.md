@@ -81,11 +81,12 @@
 - VS Code
 
 ---
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mamidipakapavan02-blip&show_icons=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamidipakapavan02-blip&theme=github_dark" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mamidipakapavan02-blip&layout=compact)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mamidipakapavan02-blip&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mamidipakapavan02-blip&theme=github_dark" />
 
 ---

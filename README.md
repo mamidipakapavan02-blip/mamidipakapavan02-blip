@@ -30,3 +30,45 @@
 > I love building responsive websites using Bootstrap and modern web technologies.
 
 ---
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/mamidipakapavan02-blip">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,python,java,c,git,github,vscode" />
+</p>
+
+---
+
+# 🛠 Skills
+
+### Frontend
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Programming Languages
+- Python
+- Java
+- C
+
+### Tools
+- Git
+- GitHub
+- VS Code

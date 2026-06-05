@@ -106,3 +106,6 @@
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/mamidipakapavan02-blip/mamidipakapavan02-blip/blob/output/github-contribution-grid-snake.svg)

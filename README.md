@@ -96,3 +96,13 @@
 ## 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=mamidipakapavan02-blip&theme=react-dark)
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mamidipakapavan02-blip&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---

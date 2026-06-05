@@ -29,16 +29,23 @@
 ⚡ Fun Fact:
 > I love building responsive websites using Bootstrap and modern web technologies.
 
----
 # 🌐 Connect With Me
 
 <p align="left">
 <a href="https://github.com/mamidipakapavan02-blip">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
+
+<a href="https://leetcode.com/u/xtkWDSSTPA/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="48" height="48"/>
+</a>
 </p>
 
 ---
+
+# 🏆 Coding Profiles
+
+- 🔥 LeetCode: https://leetcode.com/u/xtkWDSSTPA/
 
 # 💻 Tech Stack
 

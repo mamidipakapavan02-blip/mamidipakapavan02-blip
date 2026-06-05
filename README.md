@@ -82,14 +82,10 @@
 
 - ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mamidipakapavan02-blip&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mamidipakapavan02-blip&show_icons=true&theme=tokyonight)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamidipakapavan02-blip&layout=compact&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mamidipakapavan02-blip&layout=compact&theme=tokyonight)
 
 ---

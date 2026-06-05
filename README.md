@@ -80,12 +80,8 @@
 - GitHub
 - VS Code
 
----
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mamidipakapavan02-blip&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mamidipakapavan02-blip&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mamidipakapavan02-blip&layout=compact&theme=radical)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mamidipakapavan02-blip&layout=compact)

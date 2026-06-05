@@ -92,3 +92,7 @@
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=mamidipakapavan02-blip&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=mamidipakapavan02-blip&theme=react-dark)
